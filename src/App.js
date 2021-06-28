@@ -93,7 +93,7 @@ function App() {
     <div className="App" tabIndex={0} onKeyUp={handleKeyUp} style={{
       width: "100%",
       height: "100vh",
-      background: "#555555",
+      background: "#fddeed",
       display: "flex",
       flexDirection: "column",
       justifyContent: "center",
